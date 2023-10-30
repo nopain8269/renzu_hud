@@ -37,3 +37,8 @@ files {
 	'ui/shifter/*.webp',
 	'stream/*.ydr',
 }
+dependencies {
+    'esx_status',
+    'renzu_fuel',
+    'renzu_status'
+}
